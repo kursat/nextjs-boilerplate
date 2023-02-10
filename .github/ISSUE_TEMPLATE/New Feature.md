@@ -1,7 +1,7 @@
 ---
 name: New feature template
 about: Select this template if we are developing a feature first time
-labels: NewFeature
+labels: new-feature
 ---
 
 ## Description
