@@ -1,7 +1,7 @@
 ---
 name: Bug template
 about: Select this template if something is broken
-labels: bug
+labels: bug, new
 ---
 
 ## Description
